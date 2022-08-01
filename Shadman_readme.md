@@ -2,3 +2,5 @@ python src/train_tripletloss.py --logs_base_dir ~/logs/facenet/ --models_base_di
 
 
 Check the wiki's triplet loss for more, almost all info is given there
+
+https://www.tensorflow.org/addons/tutorials/losses_triplet
